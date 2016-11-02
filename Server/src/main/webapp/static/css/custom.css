@@ -1,0 +1,9 @@
+@CHARSET "UTF-8";
+#errMsg{
+	color: red;
+}
+
+.center25{
+	padding-left:25px;
+	padding-right:25px;
+}
